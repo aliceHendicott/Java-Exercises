@@ -1,2 +1,2 @@
 # Java-Exercises
-Practice creating basic class in Java
+Practice creating basic classes in Java
